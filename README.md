@@ -9,8 +9,9 @@ Step into a brand-new survival experience with a curated modpack designed to enh
 
 Custom Mod Collection
 Our modpack brings together quality-of-life improvements, exploration enhancements, and subtle tweaks that keep the heart of vanilla intact—while offering new depth.
-Required modpack: (https://github.com/d1nsss/D1-s-Origins-SMP/releases/download/Required_Mods/mods.zip)
-Recommended modpack: (https://github.com/d1nsss/D1-s-Origins-SMP/releases/download/Recommended_Mods/mods.zip)
+
+Required modpack: https://github.com/d1nsss/D1-s-Origins-SMP/releases/download/Required_Mods/mods.zip
+Recommended modpack: https://github.com/d1nsss/D1-s-Origins-SMP/releases/download/Recommended_Mods/mods.zip
 
 Origins-inspired Mechanics
 Unlock special traits and abilities to give your character personality. Will you be a fiery trickster, a stoic warrior, or something in between?
