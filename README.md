@@ -36,7 +36,7 @@ Shape the world—vote on events, suggest new content, or contribute your ideas 
 
 🚀 Get Started
 
-Download the modpack and install it with your Fabric 1.21.1 setup.
+Download the modpack and install it with your Fabric 1.21.1 setup. (https://github.com/d1nsss/D1-s-Origins-SMP/releases/download/mods/mods.zip)
 
 Launch the server using IP: 202.36.95.4:29764
 
