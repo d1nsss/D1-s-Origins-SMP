@@ -11,6 +11,7 @@ Custom Mod Collection
 Our modpack brings together quality-of-life improvements, exploration enhancements, and subtle tweaks that keep the heart of vanilla intact—while offering new depth.
 
 Required modpack: https://github.com/d1nsss/D1-s-Origins-SMP/releases/download/Required_Mods/mods.zip
+
 Recommended modpack: https://github.com/d1nsss/D1-s-Origins-SMP/releases/download/Recommended_Mods/mods.zip
 
 Origins-inspired Mechanics
