@@ -8,7 +8,7 @@ Step into a brand-new survival experience with a curated modpack designed to enh
 🔧 What Makes Us Unique
 
 Custom Mod Collection
-Our modpack (download here) brings together quality-of-life improvements, exploration enhancements, and subtle tweaks that keep the heart of vanilla intact—while offering new depth.
+Our modpack (https://github.com/d1nsss/D1-s-Origins-SMP/releases/download/mods/mods.zip) brings together quality-of-life improvements, exploration enhancements, and subtle tweaks that keep the heart of vanilla intact—while offering new depth.
 
 Origins-inspired Mechanics
 Unlock special traits and abilities to give your character personality. Will you be a fiery trickster, a stoic warrior, or something in between?
@@ -32,12 +32,10 @@ Craft, fight, and build—together or solo—with plug-ins that feel natural and
 
 Engage with the community—collaborate on mega builds, adventuring parties, or friendly competitions.
 
-Shape the world—vote on events, suggest new content, or contribute your ideas to the server’s future.
-
 🚀 Get Started
 
-Download the modpack and install it with your Fabric 1.21.1 setup. (https://github.com/d1nsss/D1-s-Origins-SMP/releases/download/mods/mods.zip)
+Download the modpack and install it with your Fabric 1.21.1 setup. - https://github.com/d1nsss/D1-s-Origins-SMP/releases/download/mods/mods.zip
 
-Launch the server using IP: 202.36.95.4:29764
+Join the server using the IP: 202.36.95.4:29764
 
 Choose your origin, gear up, and let your journey begin!
